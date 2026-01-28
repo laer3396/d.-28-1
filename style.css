@@ -22,8 +22,10 @@ h1 {
 }
 
 ul {
-    list-style: "💗 ";
-    padding-left: 20px;
+    list-style: "🩷";
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
 }
 
 .billede {

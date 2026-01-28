@@ -29,6 +29,11 @@ ul {
     padding-bottom: 20px;
 }
 
+.bubble-box {
+    display: flex;
+    align-content: center;
+}
+
 .billede {
     display: flex;
     justify-content: center;

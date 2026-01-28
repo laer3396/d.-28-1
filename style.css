@@ -24,15 +24,20 @@ h1 {
 
 ul {
     list-style: "🩷";
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-bottom: 20px;
+   
 }
 
 .bubble-box {
     display: flex;
-    align-content: center;
+    border-style: dotted;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    margin-right: 400px;
+    margin-left: 400px;
+
 }
+
 
 .billede {
     display: flex;
